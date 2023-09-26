@@ -1,1 +1,56 @@
 
+body {
+  background-color: beige;
+  margin: 5% 8%;
+}
+
+h1 {
+  color: black;
+  font-size: 24x;
+  font-family: didot, serif;
+}
+
+.title {
+  line-height: .65
+}
+
+img {
+  width: 400px;
+}
+
+.all {
+  color: black
+   font-size: 24x;
+  font-family: didot, serif;
+}
+
+.USN {
+  font-style: italic;
+}
+
+.obj {
+  border-bottom: 1px solid
+}
+
+.key {
+  border-top: 0x solid;
+  border-bottom: 1px solid;
+}
+
+.keybody {
+  font-style: italic
+}
+
+.exp {
+  border-top: 0x solid;
+}
+
+.edc {
+  border-top: 1px solid;
+  border-bottom: 1px solid
+}
+
+.why {
+  font-style: italic;
+  font-weight: bold
+}
